@@ -1,0 +1,15 @@
+{
+    "rapidmup": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-rapidmedia-rapidmup-164544-authRole",
+            "UnauthRoleArn": "arn:aws:iam::250286007225:role/amplify-rapidmedia-rapidmup-164544-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::250286007225:role/amplify-rapidmedia-rapidmup-164544-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-rapidmedia-rapidmup-164544-deployment",
+            "UnauthRoleName": "amplify-rapidmedia-rapidmup-164544-unauthRole",
+            "StackName": "amplify-rapidmedia-rapidmup-164544",
+            "StackId": "arn:aws:cloudformation:eu-west-1:250286007225:stack/amplify-rapidmedia-rapidmup-164544/7c0da620-32ff-11ea-b094-02e29081c656",
+            "AmplifyAppId": "d3p34t99i1kgeb"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "rapidenv": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-rapidmedia-rapidenv-165309-authRole",
+            "UnauthRoleArn": "arn:aws:iam::250286007225:role/amplify-rapidmedia-rapidenv-165309-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::250286007225:role/amplify-rapidmedia-rapidenv-165309-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-rapidmedia-rapidenv-165309-deployment",
+            "UnauthRoleName": "amplify-rapidmedia-rapidenv-165309-unauthRole",
+            "StackName": "amplify-rapidmedia-rapidenv-165309",
+            "StackId": "arn:aws:cloudformation:eu-west-1:250286007225:stack/amplify-rapidmedia-rapidenv-165309/84962370-3300-11ea-bfee-06d5232dd458",
+            "AmplifyAppId": "d50eq4dm2ubma"
+        }
+    }
+}

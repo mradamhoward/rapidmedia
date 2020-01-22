@@ -1,11 +1,12 @@
 .logo{
-    height: 120px;
-    display: block;
+	display: block;
+	height: 250px;
     margin: auto;
 }
 
 .learn{
-    display: block;
+	display: block;
+
     margin: auto;
 }
 
@@ -15,7 +16,8 @@ section{
 
 .jumbotron{
     display: block;
-    margin-top: 70px;
+	margin-top: 70px;
+	background-image: url('../../../assets/bg.jpg');
 }
 section .section-title{
 	text-align:center;
